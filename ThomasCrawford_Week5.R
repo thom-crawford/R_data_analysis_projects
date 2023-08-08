@@ -1,7 +1,3 @@
-# ----------------------
-# QUMT 6350 Homework 5
-# Thomas Crawford
-
 #install and load packages using install.packages & library fx
 packagesNeeded = c("caret", "e1071", "pROC", "rpart", "rpart.plot",
                    "modeldata", "ipred", "randomforest", "C50")

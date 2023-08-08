@@ -1,7 +1,3 @@
-# ----------------------
-# QUMT 6350 Homework 4
-# Thomas Crawford
-
 #install and load packages using install.packages & library fx
 packagesNeeded = c("caret", "e1071", "pROC", "MASS", "glmnet",
                    "modeldata")

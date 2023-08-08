@@ -1,7 +1,3 @@
-# ----------------------
-# QUMT 6350 Homework 7
-# Thomas Crawford
-
 #install and load packages using install.packages & library fx
 packagesNeeded = c("caret", "e1071", "randomForest")
 install.packages(packagesNeeded)

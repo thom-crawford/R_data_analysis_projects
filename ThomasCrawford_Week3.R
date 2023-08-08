@@ -1,7 +1,3 @@
-# ----------------------
-# QUMT 6350 Homework 3
-# Thomas Crawford
-
 #install and load packages using install.packages & library fx
 packagesNeeded = c("caret", "e1071", "mlbench", "party", "ipred",
                    "randomForest", "gbm", "Cubist")

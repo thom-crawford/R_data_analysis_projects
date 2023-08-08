@@ -1,7 +1,3 @@
-# ----------------------
-# QUMT 6350 Homework 6
-# Thomas Crawford
-
 #install and load packages using install.packages & library fx
 packagesNeeded = c("caret", "e1071", "mlbench", "corrplot", "pdp", "iml", 
                    "patchwork", "ggplot2", "gridExtra")
